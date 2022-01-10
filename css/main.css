@@ -1,0 +1,30 @@
+.body {
+  background-color: #ffd845;
+}
+
+.logo {
+  margin-left: 24%;
+}
+
+.pokemon__list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.pokemon__item {
+  margin-bottom: 30px;
+}
+
+.pokemon__img {
+  padding: 30px 55px;
+}
+
+.pokemon__title {
+  padding-top: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
